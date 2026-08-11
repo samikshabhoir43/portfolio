@@ -4,7 +4,9 @@
 
 A static portfolio website deployed automatically to AWS S3 using
 GitLab CI/CD.
-
+- first create s3 bucket ->public access enable 
+- github actions code
+- 
 ## 🛠️ Technologies
 
 - HTML
