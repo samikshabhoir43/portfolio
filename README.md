@@ -1,1 +1,38 @@
-# demo-actions-project
+# Portfolio Website - CI/CD Deployment
+
+## 📌 Project Overview
+
+A static portfolio website deployed automatically to AWS S3 using
+GitLab CI/CD.
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitLab CI/CD
+- AWS S3
+- AWS IAM
+- Linux
+
+## 🔄 CI/CD Pipeline
+
+Developer
+↓
+GitLab
+↓
+GitLab CI/CD
+↓
+AWS S3
+↓
+Live Website
+
+## ⚙️ Features
+
+- Automated deployment
+- AWS S3 hosting
+- GitLab CI/CD pipeline
+- IAM-based AWS authentication
+- Automatic synchronization of website files
+
